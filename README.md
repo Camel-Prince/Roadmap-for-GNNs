@@ -25,4 +25,9 @@ My own summary of the GNN's development.
 
 
 
+
+
+
+
+
 Finally, 推荐一篇图卷积神经网络的方法和应用的综述：
