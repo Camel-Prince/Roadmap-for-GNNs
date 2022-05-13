@@ -31,3 +31,7 @@ My own summary of the GNN's development.
 
 
 Finally, 推荐一篇图卷积神经网络的方法和应用的综述：
+
+[https://www.sciencedirect.com/science/article/pii/S2666651021000012](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
+
+未完，等待GNNs新的重大进展...
